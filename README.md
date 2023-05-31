@@ -34,38 +34,8 @@
 - ReactJS
 - CSS / Tailwind
 
-###### 📫 How to reach me: ...
+###### 📫 Connect with me: ...
 
 <p>
   <a href="https://www.linkedin.com/in/brandonnkawu">LinkedIn</a>
 </p>
-
-###### ✨ My Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@pridemusvaire&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pridemusvaire&layout=compact" />
-</a>
-
-<p></p>
-
-**_When I’m not debugging in production you will find me on my Onewheel, please visit the link below maybe you will discover something cool, do hit me up for a ride when you get one :)_**
-
-[onewheel.com](https://onewheel.com)
-
-<img src="https://scontent-jnb1-1.xx.fbcdn.net/v/t1.6435-9/106457637_3035461719905355_6643513265655760945_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFRnFzuvo1teDNyO15xpT2gRdwl-ao3DLJF3CX5qjcMsjPhrkpgrbXj2Me337_cVph-ncLGoPcqsPiCCLfGplNL&_nc_ohc=T2vYpoHWzMoAX8QBc7x&_nc_ht=scontent-jnb1-1.xx&oh=00_AT-T767GmejSd1fmC1sUV46A23fnGf3OCGJEZHmXF8WEIw&oe=62D15F62" width="200" height="auto"/>
-
-<!--
-**pridemusvaire/pridemusvaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 😄 Pronouns: ...
-
--->
