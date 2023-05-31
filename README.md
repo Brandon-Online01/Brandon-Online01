@@ -1,20 +1,71 @@
-### Hi there 👋
+### Hi there 👋, Welcome.
 
-Welcome to my github profile.
+###### 🔭 I’m currently working on ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-      Python
-      Java
+<div>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React Native-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/next%20js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker%20-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/shopify-96bf48.svg?&style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/strapi-8c4bff.svg?&style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/google%20cloud-4285f4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />
+</div>
+
+<br />
+
+###### 🌱 I’m currently learning ...
+
+- Python
+-
+- React Testing Library
+- React Query
+
+###### 💬 Ask me about ...
+
+- JavaScript
+- ReactJS
+- CSS / Tailwind
+
+###### 📫 How to reach me: ...
+
+<p>
+  <a href="https://www.linkedin.com/in/brandonnkawu">LinkedIn</a>
+</p>
+
+###### ✨ My Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@pridemusvaire&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pridemusvaire&layout=compact" />
+</a>
+
+<p></p>
+
+**_When I’m not debugging in production you will find me on my Onewheel, please visit the link below maybe you will discover something cool, do hit me up for a ride when you get one :)_**
+
+[onewheel.com](https://onewheel.com)
+
+<img src="https://scontent-jnb1-1.xx.fbcdn.net/v/t1.6435-9/106457637_3035461719905355_6643513265655760945_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFRnFzuvo1teDNyO15xpT2gRdwl-ao3DLJF3CX5qjcMsjPhrkpgrbXj2Me337_cVph-ncLGoPcqsPiCCLfGplNL&_nc_ohc=T2vYpoHWzMoAX8QBc7x&_nc_ht=scontent-jnb1-1.xx&oh=00_AT-T767GmejSd1fmC1sUV46A23fnGf3OCGJEZHmXF8WEIw&oe=62D15F62" width="200" height="auto"/>
+
+<!--
+**pridemusvaire/pridemusvaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-- 💬 Ask me about ...
-        ReactJS
-        NextJS
-        Javascript
-        CSS / Tailwind
-- 📫 How to reach me: ... 
-        https://www.linkedin.com/in/brandon-n-nkawu-44a2a813b
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+-->
