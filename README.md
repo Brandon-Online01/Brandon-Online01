@@ -1,31 +1,16 @@
-### Hi there 👋, Welcome.
+Hi there 👋
 
-###### 🔭 I’m currently working on ...
+I'm Brandon N Nkawu, a developer from Johannesburg, South Africa. I love programming both as a job and as a hobby and spend a lot of time writing code and testing new ideas. I work mainly with web technologies such as JavaScript, HTML, CSS, Node.js, NextJS, ReactJS, TypeScript, Tailwind, and mono-repositories. I occasionally dabble in Python.
 
-<div>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React Native-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/next%20js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker%20-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+My work 🔭
+I am the creator of https://orrbit.co.za
 
-<br />
 
-###### 🌱 I’m currently learning ...
+Ask Me About 👨🏾‍💻
+Javascript|  ReactJS | NextJS | Typescript | Tailwind CSS | HTML & CSS
 
-- Python
+Currently Leaning 📗
+Python | DevOps | Java
 
-###### 💬 Ask me about ...
-
-- JavaScript
-- ReactJS
-- CSS / Tailwind
-
-###### 📫 Connect with me: ...
-
-<p>
-  <a href="https://www.linkedin.com/in/brandonnkawu">LinkedIn</a>
-</p>
+Let us connect via 📫
+Linkin - www.linkedin.com/in/brandonnkawu
