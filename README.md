@@ -2,7 +2,9 @@ Hi there 👋
 
 I'm Brandon N Nkawu, a developer from Johannesburg, South Africa. I love programming both as a job and as a hobby and spend a lot of time writing code and testing new ideas. 
 
-I work mainly with web technologies such as JavaScript, HTML, CSS, Node.js, NextJS, ReactJS, TypeScript, Tailwind, and mono-repositories, occasionally dabbling in Python.
+I work mainly with web technologies such as:
+
+JavaScript  |  HTML  |  CSS  |  Node.js  |  NextJS  |  ReactJS  |  TypeScript  |  Tailwind  and mono-repositories, occasionally dabbling in Python.
 
 My work 🔭
 
