@@ -19,6 +19,6 @@ Currently Leaning 📗
 
 Python  |  DevOps  |  Java
 
-Let us connect via 📫
+Let's connect via 📫
 
-Linkin - www.linkedin.com/in/brandonnkawu
+LinkedIn - www.linkedin.com/in/brandonnkawu
